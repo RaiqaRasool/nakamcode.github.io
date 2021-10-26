@@ -14,8 +14,8 @@
     "coding",
     "dev"
   ],
-  "author": "Ryan Fitzgerald",
-  "license": "MIT",
+  "author": "",
+  "license": "",
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.0",
